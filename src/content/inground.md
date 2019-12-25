@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inground, not In Cloud!
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/riccardo-chiarini-oFO-MG9c-bs-unsplash.jpg
 author: earth
 date: 2019-12-25T22:52:00.000Z
 tags:
