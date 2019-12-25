@@ -53,8 +53,8 @@ const About: React.FC = () => (
                 Convergence Infrastructure hosting in dual data centers for high availability.
               </p>
               <p>
-                So please support us and stake with us. Our ticker name is "EARTH", and our
-                pool ID is "715ff93c6eda45773d05862eb6fa57a798125af18fe6c0f66d0dbb26cee876eb".
+                So please support us and stake with us. Our ticker name is <b>EARTH</b>, and our
+                pool ID is <b>715ff93c6eda45773d05862eb6fa57a798125af18fe6c0f66d0dbb26cee876eb</b>.
               </p>
             </div>
           </PostFullContent>
