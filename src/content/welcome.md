@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Earth ADA Inground Staking Pool"
 author: earth
 tags: ["Getting Started"]
-image: img/aron-visuals-bZZp1PmHI0E-unsplash.jpg
+image: img/ferdinand-stohr-NFs6dRTBgaM-unsplash.jpg
 date: "2019-12-24T23:46:37.121Z"
 draft: false
 ---
