@@ -18,4 +18,3 @@ Here are some useful links for Cardano Testnet Stake Owner.
 
 <a href='https://pooltool.io'>Cardano Pool Tool to Verify Stake Pool Information</a>
 
-<a href='https://pooltool.io'>Cardano Pool Tool to Verify Stake Pool Information</a>
