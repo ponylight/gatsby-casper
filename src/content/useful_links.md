@@ -11,3 +11,11 @@ tags:
 Here are some useful links for Cardano Testnet Stake Owner.
 
 <a href='https://staking.cardano.org/en/calculator/'>Cardano Staking Reward Calculator</a>
+
+<a href='https://shelleyexplorer.cardano.org/en/'>Cardano Incentivized Testnet Explorer</a>
+
+<a href='https://input-output-hk.github.io/shelley-node-map/'>Real Time Cardano Shelley Node Map</a>
+
+<a href='https://pooltool.io'>Cardano Pool Tool to Verify Stake Pool Information</a>
+
+<a href='https://pooltool.io'>Cardano Pool Tool to Verify Stake Pool Information</a>
