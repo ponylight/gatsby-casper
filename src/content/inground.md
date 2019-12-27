@@ -16,4 +16,4 @@ We believe, if Cardano wants to achieve high level of decentralization, we need 
 We built the staking pool with a Cisco Server, which has 2 x Intel Xeon Processors and 64GB memory. The server is connected 
 to the Internet with a dedicated 1Gbps connection through a Cisco Security Appliance.
 
-We provisioned the staking pool with much higher specifications than minimum requirements with 4 x vCPUs with 16GB memory.
+We provisioned the staking pool with much higher specifications than minimum requirements with 8 x vCPUs with 16GB memory.
