@@ -9,7 +9,7 @@ draft: false
 ---
 
 Our plan is to reinvest the revenue earned from staking to build DDoS Pretection, Malware Pretection, 
-Next-Gen Firewalls, and build the stake pools on Hyper Convergence Infrastructure.
+Next-Gen Firewalls, and build the stake pools on Hyper Converged Infrastructure.
 
 Ultimately, we are planning to extend the operation into second data center.
 
