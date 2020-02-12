@@ -18,6 +18,8 @@ We even tried recompiling with Michael Fazio's patch. It became worse. We found 
 small VPS, not with own infrastructure. The connections to other peers was about 300, and it restarted the node twice
 during the testing.
 
+We went back to official code on E-56, and figured out we have block lost is because we occasionally 1 or 2 block behind. We increased the connection to peers, turned some other settings, built connection to most of nodes in network. On E-57, we had all 9 blocks  on chain.
+
 Now we have over 2k connections established to distinct IP addresses. You can see from the video, 
 we are always synchronized with max reported block height from http://PoolTool.io. Thanks for the 10M delegator, 
 and I think 24 blocks should be a good return for 5 days.
