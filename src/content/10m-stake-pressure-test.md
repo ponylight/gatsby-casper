@@ -8,7 +8,7 @@ tags:
   - 10M
 ---
 
-e had one 10M stake between Epoch 53 and Epoch 57, which won us Slots 7, 3, 4, 8, 9 for the days. 
+We had one 10M stake between Epoch 53 and Epoch 57, which won us Slots 7, 3, 4, 8, 9 for the days. 
 Averagely, about 11M stakes is 1/1000 of the total stakes, so roughly should be 3/4 slots a day. 
 This is like a hammer pressure test for EARTH pool. Thanks for the delegator.
 
