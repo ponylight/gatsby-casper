@@ -2,6 +2,8 @@
 layout: post
 title: 10M Stake Pressure Test
 image: img/science-in-hd-M9uO8rHEI0s-unsplash.jpg
+videoSourceURL: https://youtu.be/WEShbiuEl9E
+videoTitle: "EARTH Pool BlockHeigh"
 author: earth
 date: 2020-02-12T00:36:00.000Z
 tags:
