@@ -54,7 +54,7 @@ const About: React.FC = () => (
               </p>
               <p>
                 So please support us and stake with us. Our ticker name is <b>EARTH</b>, and our
-                pool ID is <b>715ff93c6eda45773d05862eb6fa57a798125af18fe6c0f66d0dbb26cee876eb</b>.
+                pool ID is <b>0915c3599c9155abd550abdc6fab4dbbd08e80e7532bb7decd29767d</b>.
               </p>
             </div>
           </PostFullContent>
